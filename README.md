@@ -1,18 +1,12 @@
 # Калькулятор виживання в ІТ
 
-End-to-end аналітичний проєкт: від сирого CSV до задеплоєного веб-застосунку.
-
-**[▶ Демо](https://it-survival-calculator.streamlit.app/)**
-&nbsp;|&nbsp;
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+Проєкт машинного навчання та оптимізації: від сирого CSV до задеплоєного веб-застосунку.
 
 ---
 
 ## Про проєкт
+
+**[▶ Демо](https://it-survival-calculator.streamlit.app/)**
 
 Streamlit-застосунок на **реальному датасеті зарплат DOU (грудень 2025, 12 396 респондентів)**.
 Дві аналітичні вкладки поєднують дві теми курсу — Machine Learning та Оптимізацію:
